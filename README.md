@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Who I Am
+##   Who I Am
 
 ```ts
 const akash = {
@@ -65,7 +65,7 @@ const akash = {
 
 ---
 
-## 🤝 Connect
+##   Connect
 
 <div align="center">
 
