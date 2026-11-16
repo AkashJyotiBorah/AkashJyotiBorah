@@ -1,15 +1,151 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<div align="center">
 
-- 📫 How to reach me **akashjyotiborah38@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Akash%20Jyoti%20Borah&fontSize=50&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=CS%20Student&descAlignY=58&descSize=20&descColor=e2e8f0" width="100%" alt="header" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-jyoti-borah-8680b924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash jyoti borah" height="30" width="40" /></a>
-<a href="https://instagram.com/_btwitsakashh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_btwitsakashh_" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/AkashJyotiBorah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Building+things+with+code;Full+stack+with+React+%26+Node.js;Systems+programming+in+C%2C+C%2B%2B+%26+Go;Chat+servers%2C+APIs+%26+web+apps" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> </p>
+<br/>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjyotiborah&show_icons=true&locale=en" alt="akashjyotiborah" /></p> -->
+<img src="https://komarev.com/ghpvc/?username=AkashJyotiBorah&label=Profile%20views&color=7dd3fc&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AkashJyotiBorah?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Followers" />
+
+</div>
+
+---
+
+## 👋 Who I Am
+
+```ts
+const akash = {
+  title: "CS Student",
+  stack: [
+    "C", "C++", "Java", "HTML", "Go", "Python",
+    "React", "Next.js", "Node.js", "Express",
+    "AWS", "Docker",
+    "PostgreSQL", "MongoDB", "MySQL", "Firebase",
+  ],
+  launchedProjects: [
+    "Chat Server (IBM)",
+    "Human Resources Management System",
+    "Email Checker Tool",
+    "Weather Tracker",
+    "Movies CRUD API",
+    "Slot Machine",
+  ],
+  status: "Studying Computer Science & building projects",
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 Chat Server (IBM)
+<a href="https://github.com/AkashJyotiBorah/chat-server-ibm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=chat-server-ibm&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Chat Server IBM" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/chat-server-ibm)
+
+### 🧑‍💼 Human Resources Management System
+<a href="https://github.com/AkashJyotiBorah/human-resources-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=human-resources-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Human Resources Management System" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/human-resources-management-system)
+
+### 📧 Email Checker Tool
+<a href="https://github.com/AkashJyotiBorah/email-checker-tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=email-checker-tool&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Email Checker Tool" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/email-checker-tool)
+
+### 🌦️ Weather Tracker
+<a href="https://github.com/AkashJyotiBorah/weather-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=weather-tracker&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Weather Tracker" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/weather-tracker)
+
+### 🎬 Movies CRUD API
+<a href="https://github.com/AkashJyotiBorah/movies-crud-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=movies-crud-api&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Movies CRUD API" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/movies-crud-api)
+
+### 🎰 Slot Machine
+<a href="https://github.com/AkashJyotiBorah/slot-machine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashJyotiBorah&repo=slot-machine&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Slot Machine" />
+</a>
+
+🔗 [Code](https://github.com/AkashJyotiBorah/slot-machine)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,go,py" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,react,nextjs" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud and DevOps" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" alt="Databases" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AkashJyotiBorah&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJyotiBorah&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e2e8f0" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AkashJyotiBorah&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&hide_border=false" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkashJyotiBorah&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashJyotiBorah&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=e2e8f0&area=true&area_color=7dd3fc&hide_border=true" width="100%" alt="Contribution graph" />
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akashjyoti-borah-8680b924b">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
+</a>
+<a href="mailto:akashjyotiborah38@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
